@@ -1,4 +1,6 @@
 # Fire-Smoke-Detection-GUI
+GUI demo video: https://youtu.be/2QsQoibVQnI
+
 Supprted mode:        
 (1)Image      
 (2)Video       
