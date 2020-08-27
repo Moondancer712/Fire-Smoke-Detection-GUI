@@ -1,6 +1,6 @@
 # Fire-Smoke-Detection-GUI
 GUI demo video: https://youtu.be/2QsQoibVQnI            
-![image](https://github.com/Moondancer712/Fire-Smoke-Detection-GUI/blob/master/cover.png)                
+![image](https://github.com/Moondancer712/Fire-Smoke-Detection-GUI/raw/master/cover.png)                
 
 Supprted mode:        
 (1)Image      
